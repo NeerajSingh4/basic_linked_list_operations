@@ -1,5 +1,5 @@
 # basic_linked_list_operations
-This repository contain a program which works all the basic linked list operations.This will be helpful for C learning beginners
+This repository contain a program which works on all the basic linked list operations.This will be helpful for Cbeginners
 The following basic oerations are present in the code:
   1.Creation of the list
   2.Display the list.
